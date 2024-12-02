@@ -33,7 +33,7 @@ const Projects = () => (
         </p>
         <div className="mb-4">
           <video controls className="w-full h-auto rounded-lg shadow-sm">
-            <source src="Compact1.mp4" type="video/mp4" />
+            <source src="compact1.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
